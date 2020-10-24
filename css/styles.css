@@ -2,4 +2,8 @@ body {
     
     background: black;
     color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 150%;
+    font-family: Arial, Verdana, sans-serif;
 }
