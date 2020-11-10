@@ -14,20 +14,19 @@ h2 {font-size: 125%;
 }
 
 
-#first-heading {border: 3px solid;
+#first-heading {border: 3px double yellow;
 	color: yellow;
 	background: gray;
 	text-align: center;
 	font-size: 200%;
 }
 
-#second-heading {border: 2px dashed;
-	color: yellow;
+#second-heading {border: 3px outset orange;
 	background: gray;
 	padding: 5px;
 }
 
-#styled-paragraph {border: 3px solid orange;
+#styled-paragraph {border: 3px ridge orange;
 		border-radius: 15px;
 		background-color: gray;
 		padding: 5px;
