@@ -31,3 +31,9 @@ h2 {
 	color: yellow;
 	background: gray;
 }
+
+#styled-paragraph {
+	border: 3px solid orange;
+	border-radius: 15px;
+	background-color: gray;
+}
