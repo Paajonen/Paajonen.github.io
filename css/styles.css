@@ -28,7 +28,8 @@ h2 {font-size: 125%;
 
 #styled-paragraph {border: 3px ridge orange;
 		border-radius: 15px;
-		background-color: gray;
+		background-color: lightgray;
+		color: black;
 		padding: 5px;
 }
 
