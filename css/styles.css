@@ -1,58 +1,46 @@
-body {
-    
-    background: black;
+body {background: black;
     color: white;
     font-weight: bold;
     font-size: 100%;
     font-family: Arial, Verdana, sans-serif;
 }
 
-h1 {
-	
-	font-size: 150%;
+h1 {font-size: 150%;
 	font-family: Arial, Verdana, sans-serif;
 }
 
-h2 {
-	
-	font-size: 125%;
+h2 {font-size: 125%;
 	font-family: Arial, Verdana, sans-serif;
 }
 
-a { 
-	border: 2px solid yellow;
+a {border: 2px solid yellow;
 	border-radius: 15px;
 	padding: 5px;
 }
 
-#first-heading {
-	border: 3px solid;
-	color: yellow;
-	background: gray;
-	text-align: center;
-	font-size: 200%;
+#first-heading {border: 3px solid;
+		color: yellow;
+		background: gray;
+		text-align: center;
+		font-size: 200%;
 }
 
-#second-heading {
-	border: 2px dashed;
-	color: yellow;
-	background: gray;
-	padding: 5px;
+#second-heading {border: 2px dashed;
+		color: yellow;
+		background: gray;
+		padding: 5px;
 }
 
-#styled-paragraph {
-	border: 3px solid orange;
-	border-radius: 15px;
-	background-color: rgba(180, 180, 180, 1);
-	padding: 5px;
+#styled-paragraph {border: 3px solid orange;
+		border-radius: 15px;
+		background-color: rgba(180, 180, 180, 1);
+		padding: 5px;
 }
 
-#img1 {
-	margin-left: 41px;
+#img1 {margin-left: 41px;
 }
 
-#caption1 {
-	font-style: italic;
+#caption1 {font-style: italic;
 	margin-left: 230px;
 	font-size: 75%;
 }
