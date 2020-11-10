@@ -1,4 +1,4 @@
-body {background: black;
+body {background-image: linear-gradient(to right, black, gray);
     color: white;
     font-weight: bold;
     font-size: 100%;
@@ -12,6 +12,7 @@ h1 {font-size: 150%;
 h2 {font-size: 125%;
 	font-family: Arial, Verdana, sans-serif;
 }
+
 
 #first-heading {border: 3px solid;
 	color: yellow;
@@ -28,7 +29,7 @@ h2 {font-size: 125%;
 
 #styled-paragraph {border: 3px solid orange;
 		border-radius: 15px;
-		background-color: rgba(180, 180, 180, 1);
+		background-color: gray;
 		padding: 5px;
 }
 
@@ -41,7 +42,7 @@ h2 {font-size: 125%;
 }
 
 #meter-text {font-size: 75%;
-}
+			}
 
 .separators {margin-top: 30px;
 	margin-bottom: 40px;
