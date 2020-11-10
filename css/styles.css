@@ -19,16 +19,16 @@ a {border: 2px solid yellow;
 }
 
 #first-heading {border: 3px solid;
-		color: yellow;
-		background: gray;
-		text-align: center;
-		font-size: 200%;
+	color: yellow;
+	background: gray;
+	text-align: center;
+	font-size: 200%;
 }
 
 #second-heading {border: 2px dashed;
-		color: yellow;
-		background: gray;
-		padding: 5px;
+	color: yellow;
+	background: gray;
+	padding: 5px;
 }
 
 #styled-paragraph {border: 3px solid orange;
@@ -41,6 +41,13 @@ a {border: 2px solid yellow;
 }
 
 #caption1 {font-style: italic;
-	margin-left: 230px;
-	font-size: 75%;
+		margin-left: 230px;
+		font-size: 75%;
+}
+
+#meter-text {font-size: 75%;
+			}
+
+.separators {margin-top: 30px;
+	margin-bottom: 40px;
 }
