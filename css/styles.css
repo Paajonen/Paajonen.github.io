@@ -39,8 +39,8 @@ footer {
 .tableheader {color: white;
 }
 
-.hinnasto {margin-top: 75px;
-	padding: 10px;
+.hinnasto {margin-top: 40px;
+	padding: 27px;
 	text-align: center;
 }
 
@@ -62,4 +62,9 @@ footer {
 }
 
 .button-center {text-align: center;
+}
+
+.contactbutton {padding: 10px;
+	text-align: left;
+	margin-left: 0px;
 }
