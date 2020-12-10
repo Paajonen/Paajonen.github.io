@@ -1,52 +1,65 @@
-body {background-image: linear-gradient(to right, black, gray);
-    color: white;
-    font-weight: bold;
-    font-size: 100%;
-    font-family: Arial, Verdana, sans-serif;
+body {background: silver;
 }
 
-h1 {font-size: 150%;
-	font-family: Arial, Verdana, sans-serif;
+nav {margin-top: 10px;
+	transition-property: box-shadow;
+	transition-duration: 2s;
 }
 
-h2 {font-size: 125%;
-	font-family: Arial, Verdana, sans-serif;
+nav:hover {
+	box-shadow: 20px 20px 10px grey;
 }
 
+.pitchi {padding: 10px;
+}
 
-#first-heading {border: 3px double yellow;
-	color: yellow;
-	background: gray;
+.pic {padding: 10px;
+}
+
+img {opacity: 0.8;
+}
+
+.jumbotron {padding-left: 100px;
+}
+
+.lomake {padding-top: 30px;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #343a40;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+}
+
+.tableheader {color: white;
+}
+
+.hinnasto {margin-top: 75px;
+	padding: 10px;
 	text-align: center;
-	font-size: 200%;
 }
 
-#second-heading {border: 3px outset orange;
-	background: gray;
-	padding: 5px;
+.bottomrow {background-color: gainsboro;
 }
 
-#styled-paragraph {border: 3px ridge orange;
-		border-radius: 15px;
-		background-color: lightgray;
-		color: black;
-		padding: 5px;
+.carousel-inner img {
+    width: 50%;
+    height: 50%;
 }
 
-#img1 {margin-left: 41px;
+.buffer {height: 100px;
 }
 
-#caption1 {font-style: italic;
-		margin-left: 230px;
-		font-size: 75%;
+.serviceheader {text-align: center;
+	padding: 20px;
+	padding-top: 30px;
+	margin-top: 20px;
 }
 
-#meter-text {font-size: 75%;
-			}
-
-.separators {margin-top: 30px;
-	margin-bottom: 40px;
-}
-
-.footerlinks {margin-bottom: 15px;
+.button-center {text-align: center;
 }
